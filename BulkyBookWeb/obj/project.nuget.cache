@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mPmicaaXC+QaiCPWNaAl/j3nQSiuWqiH0KjcP+m7923BGQWruCiOCHvZABoEOSoaLkAMAHCIcertdd+iZpBaIQ==",
+  "dgSpecHash": "JiElsumXGQaNYoZQs168FGGy+IHPXYI2U9rkMtXNYbxunSDldTgf8Kh/Jmo+X9rroqvxySY/585nw6vpHvMMPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\flori\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+  "projectFilePath": "C:\\Users\\flori\\Documents\\Eigene Projekte\\ASPNetCore6Tutorial\\BulkyBookWeb\\BulkyBookWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flori\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\flori\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
