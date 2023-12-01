@@ -41,6 +41,7 @@ namespace BulkyBookWeb.Controllers
             if(ModelState.IsValid) {
                 _dbContext.Categories.Add(obj);
                 _dbContext.SaveChanges();
+                TempData["success"] = "category created successfully";
                 return RedirectToAction("Index");
             }
 
@@ -118,6 +119,7 @@ namespace BulkyBookWeb.Controllers
 
             _dbContext.Categories.Remove(obj);
             _dbContext.SaveChanges();
+            TempData["success"] = "category deleted successfully";
             return RedirectToAction("Index");
 
 
