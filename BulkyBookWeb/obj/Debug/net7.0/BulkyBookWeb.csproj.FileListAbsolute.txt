@@ -504,3 +504,4 @@ C:\Users\flori\Documents\Eigene Projekte\ASPNetCore6Tutorial\BulkyBookWeb\obj\De
 C:\Users\flori\Documents\Eigene Projekte\ASPNetCore6Tutorial\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.pdb
 C:\Users\flori\Documents\Eigene Projekte\ASPNetCore6Tutorial\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.genruntimeconfig.cache
 C:\Users\flori\Documents\Eigene Projekte\ASPNetCore6Tutorial\BulkyBookWeb\obj\Debug\net7.0\ref\BulkyBookWeb.dll
+C:\Users\flori\Documents\Eigene Projekte\ASPNetCore6Tutorial\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.sourcelink.json
